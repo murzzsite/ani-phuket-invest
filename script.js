@@ -5,7 +5,7 @@ const LEAD_ENDPOINT = 'https://lead-relay.leestygpt.workers.dev/lead/7VQMGETK79'
   const $ = id => document.getElementById(id);
   const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const NS = 'http://www.w3.org/2000/svg';
-  const RATE = 2.4;
+  const RATE = 2.65;
   const f1 = v => v.toFixed(1).replace('.', ',');
   const nb = ' ';
 
